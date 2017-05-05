@@ -1,0 +1,21 @@
+c:\users\mmart\documents\visual studio 2013\Projects\DBManager\DBManager\bin\Debug\DBManager.exe.config
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\obj\Debug\DBManager.Form1.resources
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\obj\Debug\DBManager.Properties.Resources.resources
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\obj\Debug\DBManager.csproj.GenerateResource.Cache
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\bin\Debug\DBManager.exe
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\bin\Debug\DBManager.pdb
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\obj\Debug\DBManager.exe
+C:\Users\MMART\Documents\Visual Studio 2013\Projects\DBManager\DBManager\obj\Debug\DBManager.pdb
+C:\Users\MMART\Desktop\DBManager\DBManager\bin\Debug\DBManager.exe.config
+C:\Users\MMART\Desktop\DBManager\DBManager\obj\Debug\DBManager.exe
+C:\Users\MMART\Desktop\DBManager\DBManager\obj\Debug\DBManager.pdb
+C:\Users\MMART\Desktop\DBManager\DBManager\bin\Debug\DBManager.exe
+C:\Users\MMART\Desktop\DBManager\DBManager\bin\Debug\DBManager.pdb
+C:\Users\MMART\Desktop\DBManager\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+C:\Users\MMART\Desktop\DBManager\DBManager\obj\Debug\DBManager.Form1.resources
+C:\Users\MMART\Desktop\DBManager\DBManager\obj\Debug\DBManager.Properties.Resources.resources
+C:\Users\MMART\Desktop\DBManager\DBManager\obj\Debug\DBManager.csproj.GenerateResource.Cache
+C:\Users\MMART\Documents\ICCs\ICC 6\Bases de Datos\DBManager\DBManager\bin\Debug\DBManager.exe.config
+C:\Users\MMART\Documents\ICCs\ICC 6\Bases de Datos\DBManager\DBManager\obj\Debug\DBManager.exe
+C:\Users\MMART\Documents\ICCs\ICC 6\Bases de Datos\DBManager\DBManager\obj\Debug\DBManager.pdb
